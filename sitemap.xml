@@ -6,9 +6,6 @@
 		<loc>https://holkynatahu.cz/podporujinas.html</loc>
 	</url>
 	<url>
-		<loc>https://holkynatahu.cz/home.html</loc>
-	</url>
-	<url>
 		<loc>https://holkynatahu.cz/Jasminka.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,8 @@
 	</url>
 	<url>
 		<loc>https://holkynatahu.cz/Invicta.html</loc>
+	</url>
+	<url>
+		<loc>https://holkynatahu.cz/index.html</loc>
 	</url>
 </urlset>
